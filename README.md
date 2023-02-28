@@ -7,6 +7,7 @@
 | :----: | :----: | :----: | :----: |  
 | 华为 | -- | -- | https://career.huawei.com |  
 | 吉利 | 1.31 | 5.31 | https://campus.geely.com/ |  
+| 极氪 | 2.6 | 4.30 | https://campus.geely.com   |  
 | 旷世 | 2.20 | -- | http://zhaopin.megvii.com |  
 | 其域创新 | 2.20 | -- |http://www.xgrids.cn/joinUs |  
 | 美团 | 2.27 | -- | https://zhaopin.meituan.com |  
