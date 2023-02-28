@@ -6,8 +6,9 @@
 | 公司 | 开始 | 截至 | 网申 | 
 | :----: | :----: | :----: | :----: |  
 | 华为 | -- | -- | https://career.huawei.com/reccampportal/portal5/campus-recruitment.html |  
-| 美团 | 2.27 | -- | https://zhaopin.meituan.com/web/position?hiringType=2_2 |  
 | 旷世 | 2.20 | -- | http://zhaopin.megvii.com/campus_apply/megviihr/38642#/ |  
+| 其域创新 | 2.20 | -- |http://www.xgrids.cn/joinUs |  
+| 美团 | 2.27 | -- | https://zhaopin.meituan.com/web/position?hiringType=2_2 |  
 | 佑驾Minieye | 2.28 | -- |https://www.minieye.cc/career/positions?type=%E5%AE%9E%E4%B9%A0%E7%94%9F |  
 
 
