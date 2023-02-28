@@ -11,7 +11,7 @@
 | 旷世 | 2.20 | -- | http://zhaopin.megvii.com |  
 | 其域创新 | 2.20 | -- |http://www.xgrids.cn/joinUs |  
 | 美团 | 2.27 | -- | https://zhaopin.meituan.com |  
-| 佑驾Minieye | 2.28 | -- |https://www.minieye.cc/career |  
+| 佑驾创新 | 2.28 | -- |https://www.minieye.cc/career |  
 
 
 --: 表示时间暂未知 
