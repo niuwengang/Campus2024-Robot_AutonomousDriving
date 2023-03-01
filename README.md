@@ -3,7 +3,7 @@
 本仓库将定期更新2024届校招信息(机器人及自动驾驶领域)  ，主要以**大中厂、独角兽、研究所**为主  ，如有遗漏、错误、建议可提交issue提醒   
 预祝大家都能取得心仪的offer，一起为祖国的机器人、自动驾驶行业贡献自己的聪明才智~      
 
-更新日期2.28
+更新日期3.1
 
 ## 暑期实习
 
@@ -16,7 +16,7 @@
 | 其域创新 | 2.20 | -- |http://www.xgrids.cn/joinUs |  
 | 美团 | 2.27 | -- | https://zhaopin.meituan.com |  
 | 佑驾创新 | 2.28 | -- |https://www.minieye.cc/career |  
-
+| 百度 | 3.1 | -- |https://talent.baidu.com/external/baidu/index.html |  
 
 --: 表示时间暂未知 
 
