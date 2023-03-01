@@ -17,7 +17,7 @@
 | 美团 | 2.27 | -- | https://zhaopin.meituan.com |  
 | 佑驾创新 | 2.28 | -- |https://www.minieye.cc/career |  
 | 百度 | 3.1 | -- |https://talent.baidu.com/jobs/campus |  
-
+| 网易雷火 | 3.1 | -- |https://campus.163.com/app/index |  
 --: 表示时间暂未知 
 
 ## 课题研究型
