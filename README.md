@@ -1,7 +1,7 @@
 # Campus2024_Robot-AutonomousDriving
 **说明**  
 本仓库将定期更新2024届校招信息(机器人及自动驾驶领域)  ，主要以**大中厂、独角兽、知名研究所**为主  ，如有遗漏、错误、建议可提交issue提醒   
-预祝大家都能取得心仪的offer，一起为祖国的机器人、自动驾驶行业贡献自己的聪明才智~      
+预祝大家都能取得心仪的offer~
 
 更新日期3.1
 
@@ -19,7 +19,7 @@
 | 百度 | 3.1 | -- |https://talent.baidu.com/jobs/campus |  
 | 网易雷火 | 3.1 | -- |https://campus.163.com/app/index |  
 | 蔚来 | 3.1 | -- |https://campus.nio.com/ |  
-
+| 阿里 | 3.8 | -- |https://talent.alibaba.com/campus/home|  
 --: 表示时间暂未知 
 
 
