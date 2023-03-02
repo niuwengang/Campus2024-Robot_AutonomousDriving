@@ -19,6 +19,7 @@
 | 百度 | 3.1 | -- |https://talent.baidu.com/jobs/campus |  
 | 网易雷火 | 3.1 | -- |https://campus.163.com/app/index |  
 | 蔚来 | 3.1 | -- |https://campus.nio.com/ |  
+| 腾讯 | 3.2 | -- |https://join.qq.com|  
 | 阿里 | 3.8 | -- |https://talent.alibaba.com/campus/home|  
 
 --: 表示时间暂未知 
