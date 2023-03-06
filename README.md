@@ -21,6 +21,7 @@
 | 蔚来 | 3.1 | -- |https://campus.nio.com/ |DS5JE3U|
 | 腾讯 | 3.2 | -- |https://join.qq.com|  |
 | 魔门塔 | 3.4 | -- |https://momenta.jobs.feishu.cn/intern|  |
+| 商汤 | 3.6 | -- |https://www.sensetime.com/cn/join-us| niwuon |
 | 阿里 | 3.8 | -- |https://talent.alibaba.com/campus/home|  |
 
 --: 表示时间暂未知 
