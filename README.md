@@ -13,7 +13,7 @@
 | 吉利 | 1.31 | 5.31 | https://campus.geely.com/ |  |
 | 极氪 | 2.6 | 4.30 | https://campus.geely.com   |  |
 | 旷世 | 2.20 | -- | http://zhaopin.megvii.com | NTATDBw |
-| 其域创新 | 2.20 | -- |http://www.xgrids.cn/joinUs |  |
+| 其域创新 | 2.20 | -- |http://www.xgrids.cn/joinUs | |
 | 美团 | 2.27 | -- | https://zhaopin.meituan.com |  |
 | 佑驾创新 | 2.28 | -- |https://www.minieye.cc/career |  |
 | 百度 | 3.1 | -- |https://talent.baidu.com/jobs/campus |  |
