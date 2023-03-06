@@ -16,7 +16,7 @@
 | 其域创新 | 2.20 | -- |http://www.xgrids.cn/joinUs | DYPCL|
 | 美团 | 2.27 | -- | https://zhaopin.meituan.com | VPX8APH |
 | 佑驾创新 | 2.28 | -- |https://www.minieye.cc/career |  |
-| 百度 | 3.1 | -- |https://talent.baidu.com/jobs/campus |  |
+| 百度 | 3.1 | -- |https://talent.baidu.com/jobs/campus |IZ3J10  |
 | 网易雷火 | 3.1 | -- |https://campus.163.com/app/index |  |
 | 蔚来 | 3.1 | -- |https://campus.nio.com/ |DS5JE3U|
 | 腾讯 | 3.2 | -- |https://join.qq.com|  |
