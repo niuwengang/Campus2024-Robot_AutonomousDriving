@@ -24,6 +24,8 @@
 | 商汤 | 3.6 | -- |https://www.sensetime.com/cn/join-us| niwuon |
 | 京东 | 3.6 | -- |https://campus.jd.com/home#/ | C2E8P |
 | 阿里 | 3.8 | -- |https://talent.alibaba.com/campus/home|  |
+| 字节 | 3.9 | -- |https://jobs.bytedance.com/|TBCSK8P  |
+
 
 --: 表示时间暂未知 
 
