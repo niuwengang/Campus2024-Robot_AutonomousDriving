@@ -3,7 +3,7 @@
 本仓库将定期更新2024届校招信息(机器人及自动驾驶领域)  ，主要以**大中厂、独角兽**为主  ，如有遗漏、错误、建议可提交issue提醒   
 预祝大家都能取得心仪的offer~
 
-更新日期3.9
+更新日期3.11
 
 ## 暑期实习
 
@@ -25,7 +25,7 @@
 | 京东 | 3.6 | -- |https://campus.jd.com/home#/ | C2E8P |
 | 阿里 | 3.8 | -- |https://talent.alibaba.com/campus/home|  |
 | 字节 | 3.9 | -- |https://jobs.bytedance.com/|TBCSK8P  |
-
+| 地平线 | 3.11 | -- |https://wecruit.hotjob.cn/|  |
 
 --: 表示时间暂未知 
 
